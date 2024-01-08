@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="QR-code and Business-card generator"
               description="QR-code Business-Card generator is a web app made with vue.js where user will be able to generate the QR-code and business-card."
-              ghLink=""
-              demoLink=""
+              // ghLink=""
+              // demoLink=""
             />
           </Col>
 
@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="Keylogger"
               description="It is a python script which stores the keystrokes of the user keyboard for the purpose of gaining information about the user without the user's knowledge."
-              ghLink=""
-              demoLink=""
+              // ghLink=""
+              // demoLink=""
             />
           </Col>
 
@@ -49,8 +49,8 @@ function Projects() {
               isBlog={false}
               title="Weather app"
               description="It tells the weather condition of the particular location. it is developed using HTML , CSS , JS."
-              ghLink=""
-              demoLink=""
+              // ghLink=""
+              // demoLink=""
             />
           </Col>
 
@@ -60,8 +60,8 @@ function Projects() {
               isBlog={false}
               title="User-Authentication"
               description="User authentication verifies the identity of a user attempting to gain access to a network or computing resource by authorizing. it is made with node.js and passport.js"
-              ghLink=""
-              demoLink=""
+              // ghLink=""
+              // demoLink=""
             />
           </Col>
 
@@ -71,7 +71,7 @@ function Projects() {
               isBlog={false}
               title="Drumkit"
               description="It is the basic drumkit app made using HTML , CSS , JS where user can play various drum using the keystrokes."
-              ghLink=""
+              // ghLink=""
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
@@ -82,7 +82,7 @@ function Projects() {
               isBlog={false}
               title="Blogpage"
               description="It is a basic blog page where user can compose their daily blogs and save it. it is made with Node js and ejs."
-              ghLink=""
+              // ghLink=""
               // demoLink=""      <--------Please include a demo link here
             />
           </Col>
