@@ -1,14 +1,14 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://sauravsharma.vercel.app/" target="_blank">h</a>
+  Portfolio Website -<br/>
+  <a href="https://sauravsharma.vercel.app/" target="_blank">Visit Website</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="[./Images/readme-img1.png](https://github.com/sharma151/sauravsharma/blob/main/Images/readme-img.png)" />
 </div>
 
 <br/>
 
-## TL;DR
+
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Sharma51](https://github.com/sharma151/saurav_portfolio_website). Thanks!
 
