@@ -3,7 +3,7 @@
   <a href="https://sauravsharma.vercel.app/" target="_blank">Visit Website</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="[./Images/readme-img1.png](https://github.com/sharma151/sauravsharma/blob/main/Images/readme-img.png)" />
+  ![logo](https://github.com/sharma151/sauravsharma/blob/main/Images/readme-img.png)" />
 </div>
 
 <br/>
