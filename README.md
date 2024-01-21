@@ -2,9 +2,9 @@
   Portfolio Website -<br/>
   <a href="https://sauravsharma.vercel.app/" target="_blank">Visit Website</a>
 </h2>
-<div align="center">
-  ![logo](https://github.com/sharma151/sauravsharma/blob/main/Images/readme-img.png)" />
-</div>
+
+![logo](https://github.com/sharma151/sauravsharma/blob/main/Images/readme-img.png)" />
+
 
 <br/>
 
