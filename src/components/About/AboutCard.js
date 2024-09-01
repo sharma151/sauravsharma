@@ -28,7 +28,7 @@ function AboutCard() {
             me to create secure and intuitive digital experiences. I am eager to
             apply my knowledge and skills in a challenging role where I can
             continue to learn, grow, and make a positive impact on the digital
-            world <br />
+            world. <br />
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
