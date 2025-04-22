@@ -7,28 +7,32 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "justify", textJustify: "inter-word" }}>
             Hi, I am <span className="purple">Saurav sharma </span>
             from <span className="purple"> Darbhanga, India.</span>
-            <br /> As a Computer Science Engineering graduate specializing in
-            cybersecurity, I am deeply passionate about leveraging my coding
-            skills to address real-world challenges and enhance digital
-            security. My journey has been marked by diverse experiences across
-            multiple domains, including cybersecurity, web development, software
-            development, and testing. During my internships with the All India
-            IT Association, MP Police Cyber Cell, Persistent Systems, and Oasis
-            Infobyte, I gained invaluable hands-on experience that has shaped my
-            technical expertise and problem-solving abilities. Each role
-            provided unique opportunities to develop my skills and contribute to
-            meaningful projects. In addition to my practical experience, I have
-            pursued further education through certifications like the IBM
-            Cybersecurity Professional Certification and the Meta Frontend
-            Development course. These programs have equipped me with a robust
-            foundation in both cybersecurity and front-end development, enabling
-            me to create secure and intuitive digital experiences. I am eager to
-            apply my knowledge and skills in a challenging role where I can
-            continue to learn, grow, and make a positive impact on the digital
-            world. <br />
+            <br />I am currently working as a Frontend Developer at Young
+            Innovation Pvt. Ltd., Nepal, where I focus on building secure,
+            user-friendly, and scalable web applications. With a background in
+            Computer Science Engineering and a specialization in cybersecurity,
+            I am passionate about applying my coding skills to solve real-world
+            problems and strengthen digital security.
+            <br />
+            <br />
+            My journey has included hands-on experiences across cybersecurity,
+            web development, software development, and testing. I’ve interned
+            with organizations like the All India IT Association, MP Police
+            Cyber Cell, Persistent Systems, and Oasis Infobyte, each of which
+            enriched my technical expertise and problem-solving capabilities
+            through meaningful project work.
+            <br />
+            <br /> I have also pursued professional development through
+            certifications like the IBM Cybersecurity Professional Certification
+            and the Meta Frontend Development course. These have equipped me
+            with a strong foundation in both cybersecurity and frontend
+            technologies, enabling me to deliver secure and intuitive digital
+            experiences. I am enthusiastic about continuous learning and am
+            eager to contribute to innovative projects that make a positive
+            impact on the digital world. <br />
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -41,7 +45,7 @@ function AboutCard() {
               <ImPointRight /> Listning Music
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Hikking / Trekking
             </li>
           </ul>
 
