@@ -5,9 +5,10 @@ import {
   SiPostman,
   SiJupyter,
   SiHeroku,
-  SiWindows
+  SiWindows,
 } from "react-icons/si";
-
+import { IoLogoGitlab } from "react-icons/io5";
+import { FaGithub, FaUbuntu } from "react-icons/fa";
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
@@ -15,7 +16,13 @@ function Toolstack() {
         <SiWindows />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <FaUbuntu />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaGithub />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
@@ -24,7 +31,10 @@ function Toolstack() {
         <SiJupyter />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku/>
+        <SiHeroku />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <IoLogoGitlab />
       </Col>
     </Row>
   );
